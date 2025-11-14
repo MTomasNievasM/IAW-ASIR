@@ -1,0 +1,10 @@
+{
+  "name": "IAW-ASIR",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {},
+  "dependencies": {
+    "audit": "^0.0.6",
+    "fix": "^0.0.3"
+  }
+}
