@@ -7,7 +7,7 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
 import App from './App'
 import Contenido from './components/Contenido/Contenido'; 
 import NotFoundPage from './pages/NotFoundPage';
-import ServiciosPage from './pages/ServiciosPage';
+import FotosPage from './pages/FotosPage';
 import SobreNosotrosPage from './pages/SobreNosotrosPage';
 import PorQueElegirnosPage from './pages/PorQueElegirnosPage';
 import NoticiasPage from './pages/NoticiasPage';
@@ -29,7 +29,7 @@ const router = createBrowserRouter([
       },
       {
         path: "servicios", 
-        element: <ServiciosPage />,
+        element: <FotosPage />,
       },
       {
         path: "sobre-nosotros",
